@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
+I am Balbir Singh A full stack developer, born and raised in Punjab India. I am currently working with **Delicate Software Solutions**, Dubai UAE. I usually work with the dot net technologies and handling [HR software in UAE](https://www.delicatesoft.com) project.
 <!--
 **DelicateSoftware/DelicateSoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->![BalbirSingh](https://github.com/DelicateSoftware/DelicateSoftware/assets/166436415/33308d43-28ad-4c05-b39d-1bfaaa1f2d44)
+
